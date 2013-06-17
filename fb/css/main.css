@@ -79,6 +79,14 @@ fieldset {
 textarea {
     resize: vertical;
 }
+ul {
+    list-style: none;
+}
+a {
+        color: #FFF;
+        text-decoration: none;
+
+}
 
 /* ==========================================================================
    Chrome Frame prompt
@@ -99,7 +107,7 @@ textarea {
 }   
 
 .fb-wrap {
-    margin: 0 auto;
+    
     height: 695px;
     width: 855px;
     background: #FFF;
@@ -190,10 +198,56 @@ nav a:first-child{
     background-position: 111px 1px;
 }
 
+/*----------------Tabbed Content---------------------*/
 
+.tabbed-content {
+    height: 315px;
+    width: 474px;
+    position: absolute;
+    top: 150px;
+    left: 201px;
+}
 
+.tabbed-content p {
+    padding: 4px;
+    overflow: hidden;
+}
 
+.top-tab {
+    margin:0;
+    padding:0;
+}
 
+.top-tab li {
+    display: inline-block;
+    float: left;
+    padding-top: 6px;
+    width:156px;
+    height: 30px;
+    background-color: #B1B1B1;
+    color: #FFF;
+    border: solid 2px #FFF;
+    
+}
+
+#livetab-one {
+
+}
+.active {
+    color: yellow;
+    background: black;
+}
+
+/*----------------Outside Links-----------------------*/
+
+.real-link {
+    float: right;
+    height: 51px;
+    width:92px;
+    background-color: #73202E;
+    margin-top: 300px;
+    padding-top: 9px;
+}
 
 
 
