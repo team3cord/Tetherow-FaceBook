@@ -14,12 +14,28 @@
 
         <link rel="stylesheet" href="css/normalize.css">
         <link rel="stylesheet" href="css/main.css">
-        <script src="js/vendor/modernizr-2.6.2.min.js"></script>
+        <link href="js/css/first/jquery-ui-1.10.3.custom.css" rel="stylesheet">
+        <script src="js/vendor/jquery-1.9.1.min.js"></script>
+        <script src="js/vendor/jquery-ui-1.10.3.custom.js"></script>  
+        <script>
+            $(function() {
+                
+                $( "#tabs" ).tabs();
 
-         <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-        <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
-        <script src="js/plugins.js"></script>
-        <script src="js/main.js"></script>
+                // Hover states on the static widgets
+                $( "#dialog-link, #icons li" ).hover(
+                    function() {
+                        $( this ).addClass( "ui-state-hover" );
+                    },
+                    function() {
+                        $( this ).removeClass( "ui-state-hover" );
+                    }
+                );
+            });
+        </script>
+         
+        
+        
 
 
 
@@ -27,13 +43,54 @@
 
     </head>
     <body>
-    	<div class="fb-wrap">
-    		<div class="content-wrap">
-        <h1>DINE</h1>
-
+        <div class="fb-menu"></div>
+        <div class="fb-wrap">
+            <div id="dine-pg" class="content-wrap">
+                <div class="social">
+                    <ul>
+                        <li id="tweet"><a href="#"></a></li>
+                        <li id="like"><a href="#"></a></li>
+                        <li id="share"><a href="#"></a></li>
+                        
+                    </ul>
+                </div>
         
+        <nav>
+            <a id="nv-t" href="#"><span id="none">TETHEROW</span></a>
+            <a id="nv-l" href="http://localhost:8888/tetherow-fb-tabs/fb/live.php"><span>LIVE</span></a>
+            <a id="nv-g" href="http://localhost:8888/tetherow-fb-tabs/fb/golf.php"><span>GOLF</span></a>
+            <a class="test" id="nv-d" href="http://localhost:8888/tetherow-fb-tabs/fb/dine.php"><span>DINE</span></a>
+            <a id="nv-e" href="http://localhost:8888/tetherow-fb-tabs/fb/events.php"><span>EVENTS</span></a>
+            <a id="nv-s" href="http://localhost:8888/tetherow-fb-tabs/fb/stay.php"><span>STAY</span></a>
+        </nav>
+        <div id="tabs" class="tabbed-content">
+            <ul class="top-tab">
+                <li><a href="#tabs-1">DINE One</a></li>
+                <li><a href="#tabs-2">DINE Two</a></li>
+                <li><a href="#tabs-3">DINE Three</a></li>
+            </ul>
+            <div id="tabs-1" class="white"><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p></div>
+            <div id="tabs-2" class="white"><p>Phasellus mattis tincidunt nibh. Cras orci urna, blandit id, pretium vel, aliquet ornare, felis. Maecenas scelerisque sem non nisl. Fusce sed lorem in enim dictum bibendum.</p>
+                <ul class="bottom-tab-four">
+                    <li><a class="btm" href="#">tab1</a></li>
+                    <li><a class="btm" href="#">tab2</a></li>
+                    <li><a class="btm" href="#">tab3</a></li>
+                    <li><a class="btm" href="#">tab4</a></li>
+                </ul>
+            </div>
+            <div id="tabs-3" class="white"><p>Nam dui erat, auctor a, dignissim quis, sollicitudin eu, felis. Pellentesque nisi urna, interdum eget, sagittis et, consequat vestibulum, lacus. Mauris porttitor ullamcorper augue.</p></div>
         </div>
-      </div> 
+
+
+        <div class="real-link">
+            <a href="#">VIEW REAL ESTATE</a>
+        </div>
+
+        <div class="agent"><span class="bold">CALL AN AGENT: </span><span>DEBBIE DEBBIE (541) 999-9999</span></div>
+        
+        <div class="learn"><a class="bold" href="#">Learn More at Tetherow.com ></a></div>
+
+        </div> 
 
 
 
@@ -41,10 +98,8 @@
 
         <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
         <script>
-            var _gaq=[['_setAccount','UA-XXXXX-X'],['_trackPageview']];
-            (function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
-            g.src='//www.google-analytics.com/ga.js';
-            s.parentNode.insertBefore(g,s)}(document,'script'));
+            
+            
         </script>
     </body>
 </html>

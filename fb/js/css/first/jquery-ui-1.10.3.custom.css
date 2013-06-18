@@ -358,11 +358,12 @@ button.ui-button::-moz-focus-inner {
 	
 }
 .ui-tabs .ui-tabs-nav li {
-	
+	width:154px; 
+	height: 29px;
+	border-bottom: 1px solid #E1E1E1;
 }
 .ui-tabs .ui-tabs-nav li a {
-	
-	padding: .5em 1em;
+	padding:.3em 1em;
 	text-decoration: none;
 }
 .ui-tabs .ui-tabs-nav li.ui-tabs-active {
@@ -382,7 +383,9 @@ button.ui-button::-moz-focus-inner {
 	display: block;
 	border-width: 0;
 	padding: 1em 1.4em;
-	background: none;
+	background: #FFF;
+	width:429px;
+	height: 251px;
 }
 .ui-tooltip {
 	padding: 8px;
@@ -412,15 +415,16 @@ body .ui-tooltip {
 	
 }
 .ui-widget-content {
-	background: #fff;
+	/*background: #fff;*/
 	color: #333333;
 }
 .ui-widget-content a {
-	color: #333333;
+	color: #FFF;
+	font-weight: bold;
 }
 .ui-widget-header {
 	
-	background: #fff ;
+	/*background: #fff ;*/
 	color: #ffffff;
 	font-weight: bold;
 }
@@ -433,15 +437,15 @@ body .ui-tooltip {
 .ui-state-default,
 .ui-widget-content .ui-state-default,
 .ui-widget-header .ui-state-default {
-	border: 1px solid #cccccc;
-	background: #f6f6f6 url(images/ui-bg_glass_100_f6f6f6_1x400.png) 50% 50% repeat-x;
+	border: 2px solid #FFF;
+	background: hsla(0,0,0,0.5);  /* 50% transparent */
 	font-weight: bold;
 	color: #000;
 }
 .ui-state-default a,
 .ui-state-default a:link,
 .ui-state-default a:visited {
-	color: #000;
+	/*color: #291f11;*/
 	text-decoration: none;
 }
 .ui-state-hover,
@@ -450,8 +454,8 @@ body .ui-tooltip {
 .ui-state-focus,
 .ui-widget-content .ui-state-focus,
 .ui-widget-header .ui-state-focus {
-	border: 1px solid #251e01;
-	background: #ECECEC;
+	/*border: 1px solid #E1E1E1;*/
+	background: #FFF;
 	font-weight: bold;
 	color: #291f11;
 }
@@ -465,15 +469,14 @@ body .ui-tooltip {
 .ui-state-active,
 .ui-widget-content .ui-state-active,
 .ui-widget-header .ui-state-active {
-	border: 1px solid #73202E;
-	background: #D8D8D8;
+	border: 2px solid #FFF;
+	background: #FFF;
 	font-weight: bold;
-	color: #73202E;
+	color: #000;
 }
 .ui-state-active a,
-.ui-state-active a:link,
-.ui-state-active a:visited {
-	color: #73202E;
+.ui-state-active a:link {
+	color: #000;
 	text-decoration: none;
 }
 
@@ -747,7 +750,7 @@ body .ui-tooltip {
 ----------------------------------*/
 
 /* Corner radius */
-.ui-corner-all,
+/*.ui-corner-all,
 .ui-corner-top,
 .ui-corner-left,
 .ui-corner-tl {
@@ -770,7 +773,7 @@ body .ui-tooltip {
 .ui-corner-right,
 .ui-corner-br {
 	border-bottom-right-radius: 3px;
-}
+}*/
 
 /* Overlays */
 .ui-widget-overlay {

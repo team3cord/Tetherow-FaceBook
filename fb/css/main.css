@@ -197,11 +197,49 @@ nav a:first-child{
     background-repeat: no-repeat;
     background-position: 111px 1px;
 }
+#golf-pg {
+    background-image: url('../img/golf-bg.jpg');
+    background-repeat: no-repeat;
+    background-position: 111px 1px;
+}
+#dine-pg {
+    background-image: url('../img/dine-bg.jpg');
+    background-repeat: no-repeat;
+    background-position: 111px 1px;
+}
+#events-pg {
+    background-image: url('../img/events-bg.jpg');
+    background-repeat: no-repeat;
+    background-position: 111px 1px;
+}
+#stay-pg {
+    background-image: url('../img/stay-bg.jpg');
+    background-repeat: no-repeat;
+    background-position: 111px 1px;
+}
+
+/*----------------SOCIAL ICONS-----------------------*/
+
+
+
+.social ul li {
+    display: inline-block;
+    float: right;
+    background: #00FF00;
+    width: 60px;
+    height: 25px;
+    margin-top: 4px;
+}
+
+#share {background: url('../img/share.png')no-repeat;}
+#like {background: url('../img/fblike.png')no-repeat;}
+#tweet {background: url('../img/tweet.png')no-repeat;}
+
 
 /*----------------Tabbed Content---------------------*/
 
 .tabbed-content {
-    height: 315px;
+    height: 309px;
     width: 474px;
     position: absolute;
     top: 150px;
@@ -222,12 +260,17 @@ nav a:first-child{
     display: inline-block;
     float: left;
     padding-top: 6px;
-    width:156px;
+    width:154px;
     height: 30px;
-    background-color: #B1B1B1;
+    background: hsla(0,0,0,0.5);  /* 50% transparent */
     color: #FFF;
     border: solid 2px #FFF;
     
+}
+.white {
+    background: #FFF;
+    height: 100%;
+    width: 100%;
 }
 
 #livetab-one {
@@ -237,18 +280,76 @@ nav a:first-child{
     color: yellow;
     background: black;
 }
+/*----------------NESTED TAB MENU---------------------*/
+
+.bottom-tab-four {
+    margin:0;
+    padding:0;
+    width: 473px;
+    position: absolute;
+    left: 4px;
+    bottom: -9px;
+
+}
+.bottom-tab-four li {
+    position: relative;
+    display: inline-block;
+    float: left;
+    margin:0;
+    padding:0;
+    width:114px;
+    height: 30px;
+    background: #312B2A;
+    border: 2px solid #FFF;
+}
+
+a.btm {
+    position: relative;
+    display: block;
+    margin: 0 auto;
+    height: 25px;
+    width:100px;
+    padding-top: 5px;
+}
 
 /*----------------Outside Links-----------------------*/
 
 .real-link {
-    float: right;
-    height: 51px;
-    width:92px;
+    position: absolute;
+    top: 300px;
+    right: 0px;
+    height: 63px;
+    width:93px;
     background-color: #73202E;
-    margin-top: 300px;
-    padding-top: 9px;
 }
 
+.real-link a {
+    position: relative;
+    display: block;
+    font-weight: bold;
+    font-size: 14px;
+    margin-top: 7px;
+    border-bottom: 1px solid #FFF;
+}
+ 
+.agent {
+    position: absolute;
+    bottom: 95px;
+    left: 268px;
+    font-size: 14px;    
+    color: #FFF;
+}
+.learn {
+    position: absolute;
+    bottom: 16px;
+    left: 363px;
+    font-size: 11px;
+    color: #FFF;
+}
+
+.bold {
+    font-weight: bold;
+} 
 
 
 
