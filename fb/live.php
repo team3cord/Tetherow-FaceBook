@@ -65,17 +65,17 @@
         </nav>
         <div id="tabs" class="tabbed-content">
             <ul class="top-tab">
-                <li><a href="#tabs-1">LIVE One</a></li>
-                <li><a href="#tabs-2">LIVE Two</a></li>
-                <li><a href="#tabs-3">LIVE Three</a></li>
+                <li><a href="#tabs-1">LIFE AT TETHEROW</a></li>
+                <li><a href="#tabs-2">NEIGHBORHOODS</a></li>
+                <li><a href="#tabs-3">TAKE A TOUR</a></li>
             </ul>
-            <div id="tabs-1" class="white"><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p></div>
+            <div id="tabs-1" class="white"><p>While Bend has consistently been named one of the best places in the country to live, Tetherow could be the best place to live in Bend. The reasons are myriad. It’s located right in the middle of everything that makes this region s uch a magnet for tourists and residents alike. It surrounds one of Central Oregon’s most distinctive golf courses, a 7,298-yard, links-style, championship layout. Right out the back door is arguably the nation’s premier mountain biking trail network. And, while it boasts some of the most magnificent views in the area, Tetherow is only seven minutes from all of the shops and restaurants that make Bend a destination for so many from around the world.</p></div>
             <div id="tabs-2" class="white"><p>Phasellus mattis tincidunt nibh. Cras orci urna, blandit id, pretium vel, aliquet ornare, felis. Maecenas scelerisque sem non nisl. Fusce sed lorem in enim dictum bibendum.</p>
                 <ul class="bottom-tab-four">
-                    <li><a class="btm" href="#">tab1</a></li>
-                    <li><a class="btm" href="#">tab2</a></li>
-                    <li><a class="btm" href="#">tab3</a></li>
-                    <li><a class="btm" href="#">tab4</a></li>
+                    <li><a class="btm" href="#">CRESCENT</a></li>
+                    <li><a class="btm" href="#">GLEN</a></li>
+                    <li><a class="btm" href="#">HEATH</a></li>
+                    <li><a class="btm" href="#">TRIPLEKNOT</a></li>
                 </ul>
             </div>
             <div id="tabs-3" class="white"><p>Nam dui erat, auctor a, dignissim quis, sollicitudin eu, felis. Pellentesque nisi urna, interdum eget, sagittis et, consequat vestibulum, lacus. Mauris porttitor ullamcorper augue.</p></div>
@@ -83,10 +83,10 @@
 
 
         <div class="real-link">
-            <a href="#">VIEW REAL ESTATE</a>
+            <a href="http://www.tetherow.com/live/#&realestate=1">VIEW REAL ESTATE</a>
         </div>
 
-        <div class="agent"><span class="bold">CALL AN AGENT: </span><span>DEBBIE DEBBIE (541) 999-9999</span></div>
+        <div class="agent"><span class="bold">CALL AN AGENT: </span><span>BRIAN LADD (541) 408-3912</span></div>
         
         <div class="learn"><a class="bold" href="#">Learn More at Tetherow.com ></a></div>
 

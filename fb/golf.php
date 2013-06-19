@@ -65,28 +65,38 @@
         </nav>
         <div id="tabs" class="tabbed-content">
             <ul class="top-tab">
-                <li><a href="#tabs-1">GOLF One</a></li>
-                <li><a href="#tabs-2">GOLF Two</a></li>
-                <li><a href="#tabs-3">GOLF Three</a></li>
+                <li><a href="#tabs-1">OUR COURSE</a></li>
+                <li><a href="#tabs-2">TAKE COURSE TOUR</a></li>
+                <li><a href="#tabs-3">TEE TIMES & RATES</a></li>
             </ul>
-            <div id="tabs-1" class="white"><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p></div>
-            <div id="tabs-2" class="white"><p>Phasellus mattis tincidunt nibh. Cras orci urna, blandit id, pretium vel, aliquet ornare, felis. Maecenas scelerisque sem non nisl. Fusce sed lorem in enim dictum bibendum.</p>
+            <div id="tabs-1" class="white">
+                <h4>MULLIGAN SPECIAL: PAY ONCE, PLAY TWICE!</h4>
+                    <span>$195 (includes golf, cart and forecaddie for both rounds).</br>
+                    Available 7 days a week, 9:40 a.m. – 12:20 p.m., and after 1:30 p.m.</span>
+                    <ul>
+                        <li>Valid June – September.</li>
+                        <li>Mulligan round must be utilized by same golfer on the same or consecutive days.</li>
+                        <li>May not be combined with other specials. Mulligan Special can be booked by calling the Golf Shop at (541) 388-2582.</li>
+                    </ul>
+            </div>
+            <div id="tabs-2" class="white">
+                <iframe class="vids" width="465" height="245" src="http://www.youtube.com/embed/H08dhRUEgII?rel=0" frameborder="0" allowfullscreen></iframe>
                 <ul class="bottom-tab-four">
-                    <li><a class="btm" href="#">tab1</a></li>
-                    <li><a class="btm" href="#">tab2</a></li>
-                    <li><a class="btm" href="#">tab3</a></li>
-                    <li><a class="btm" href="#">tab4</a></li>
+                    <li><a class="btm" href="#">HOLE 2</a></li>
+                    <li><a class="btm" href="#">HOLE 4</a></li>
+                    <li><a class="btm" href="#">HOLE 11</a></li>
+                    <li><a class="btm" href="#">HOLE 17</a></li>
                 </ul>
             </div>
-            <div id="tabs-3" class="white"><p>Nam dui erat, auctor a, dignissim quis, sollicitudin eu, felis. Pellentesque nisi urna, interdum eget, sagittis et, consequat vestibulum, lacus. Mauris porttitor ullamcorper augue.</p></div>
+            <div id="tabs-3" class="white"><table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr class="tdsmallsidepadding"><th class="teetime-table-header" align="center" bgcolor="#7c1b05" width="190">2013 Greens Fees</th><th class="teetime-table-header" align="center" bgcolor="#7c1b05" width="52">Apr</th><th class="teetime-table-header" align="center" bgcolor="#7c1b05" width="60">May</th><th class="teetime-table-header" align="center" bgcolor="#7c1b05" width="70">Jun</th><th class="teetime-table-header" align="center" bgcolor="#7c1b05" width="70">Jul</th><th class="teetime-table-header" align="center" bgcolor="#7c1b05" width="70">Aug</th><th class="teetime-table-header" align="center" bgcolor="#7c1b05" width="70">Sep</th><th class="teetime-table-header" align="center" bgcolor="#7c1b05" width="52">Oct</th></tr><tr class="alt tdsmallsidepadding"><td class="table-centered" style="font-size: 11px;"><strong>Resort Guest AM</strong></td><td class="tdvalue tdcenter">$99</td><td class="tdvalue tdcenter">$119</td><td class="tdvalue tdcenter">$175</td><td class="tdvalue tdcenter">$175</td><td class="tdvalue tdcenter">$175</td><td class="tdvalue tdcenter">$175</td><td class="tdvalue tdcenter">$99</td></tr><tr class="alt tdsmallsidepadding"><td class="table-centered" style="font-size: 11px;"><strong>Resort Guest PM</strong></td><td class="tdvalue tdcenter">$85</td><td class="tdvalue tdcenter">$99</td><td class="tdvalue tdcenter">$145</td><td class="tdvalue tdcenter">$145</td><td class="tdvalue tdcenter">$145</td><td class="tdvalue tdcenter">$145</td><td class="tdvalue tdcenter">$85</td></tr><tr class="alt4 tdsmallsidepadding"><td class="table-centered" style="font-size: 11px;"><span class="tdsub"><strong>Locals</strong> (977 zip code)<br /> <em>After 1:40 pm any day.<br /> </em><em><br /> </em></span></td><td class="tdvalue tdcenter" style="text-align: center;">$80</td><td class="tdvalue tdcenter" style="text-align: center;">$80</td><td class="tdvalue tdcenter" style="text-align: center;">$100</td><td class="tdvalue tdcenter" style="text-align: center;">$100</td><td class="tdvalue tdcenter" style="text-align: center;">$100</td><td class="tdvalue tdcenter" style="text-align: center;">$100</td><td class="tdvalue tdcenter" style="text-align: center;">$80</td></tr><tr class="alt4 tdsmallsidepadding"><td class="table-centered" style="font-size: 11px;"><span class="tdsub"><span class="tdsub"><strong>Twilight Rates</strong><br /> <em>Tee Times from 3:30 p.m. and later, any day through Sept 30.</em></span></span></td><td class="tdvalue tdcenter"> </td><td class="tdvalue tdcenter"> </td><td class="tdvalue tdcenter" style="text-align: center;">$95</td><td class="tdvalue tdcenter" style="text-align: center;">$95</td><td class="tdvalue tdcenter" style="text-align: center;">$95</td><td class="tdvalue tdcenter" style="text-align: center;">$95</td><td class="tdvalue tdcenter" style="text-align: center;"> </td></tr><tr class="alt4 tdsmallsidepadding"><td class="table-centered" style="font-size: 11px;"><strong><span class="tdsub">Replay</span></strong></td><td class="tdvalue tdcenter" style="text-align: center;">$50</td><td class="tdvalue tdcenter" style="text-align: center;">$50</td><td class="tdvalue tdcenter" style="text-align: center;">$50</td><td class="tdvalue tdcenter" style="text-align: center;">$50</td><td class="tdvalue tdcenter" style="text-align: center;">$50</td><td class="tdvalue tdcenter" style="text-align: center;">$50</td><td class="tdvalue tdcenter" style="text-align: center;">$50</td></tr></tbody></table></div>
         </div>
 
 
         <div class="real-link">
-            <a href="#">VIEW REAL ESTATE</a>
+            <a href="http://www.tetherow.com/golf/">BOOK A TEE TIME</a>
         </div>
 
-        <div class="agent"><span class="bold">CALL AN AGENT: </span><span>DEBBIE DEBBIE (541) 999-9999</span></div>
+        <div class="agent"><span class="bold">CALL AN AGENT: </span><span>BRIAN LADD (541) 408-3912</span></div>
         
         <div class="learn"><a class="bold" href="#">Learn More at Tetherow.com ></a></div>
 

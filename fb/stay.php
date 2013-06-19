@@ -63,22 +63,12 @@
             <a id="nv-e" href="http://localhost:8888/tetherow-fb-tabs/fb/events.php"><span>EVENTS</span></a>
             <a id="nv-s" href="http://localhost:8888/tetherow-fb-tabs/fb/stay.php"><span>STAY</span></a>
         </nav>
-        <div id="tabs" class="tabbed-content">
-            <ul class="top-tab">
-                <li><a href="#tabs-1">STAY One</a></li>
-                <li><a href="#tabs-2">STAY Two</a></li>
-                <li><a href="#tabs-3">STAY Three</a></li>
-            </ul>
-            <div id="tabs-1" class="white"><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p></div>
-            <div id="tabs-2" class="white"><p>Phasellus mattis tincidunt nibh. Cras orci urna, blandit id, pretium vel, aliquet ornare, felis. Maecenas scelerisque sem non nisl. Fusce sed lorem in enim dictum bibendum.</p>
-                <ul class="bottom-tab-four">
-                    <li><a class="btm" href="#">tab1</a></li>
-                    <li><a class="btm" href="#">tab2</a></li>
-                    <li><a class="btm" href="#">tab3</a></li>
-                    <li><a class="btm" href="#">tab4</a></li>
-                </ul>
-            </div>
-            <div id="tabs-3" class="white"><p>Nam dui erat, auctor a, dignissim quis, sollicitudin eu, felis. Pellentesque nisi urna, interdum eget, sagittis et, consequat vestibulum, lacus. Mauris porttitor ullamcorper augue.</p></div>
+        <div id="tabs" class="stay-content">
+            <h3>VISITING TETHEROW</h3>
+            <div style="width: 100%; height: 56px; background: #00FF00;">image</div>
+            <p>Flanking the Tetherow Golf Club clubhouse and scheduled to open in the spring of 2014, the Tetherow Lodges will deliver a premium lodging experience with rooms overlooking the community’s award-winning David McLay Kidd championship golf course and westward toward the nearby Cascade Mountains.</p>
+            
+            
         </div>
 
 

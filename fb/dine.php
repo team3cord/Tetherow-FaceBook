@@ -65,28 +65,28 @@
         </nav>
         <div id="tabs" class="tabbed-content">
             <ul class="top-tab">
-                <li><a href="#tabs-1">DINE One</a></li>
-                <li><a href="#tabs-2">DINE Two</a></li>
-                <li><a href="#tabs-3">DINE Three</a></li>
+                <li><a href="#tabs-1">OUR RESTAURANT</a></li>
+                <li><a href="#tabs-2">MENU</a></li>
+                <li><a href="#tabs-3">MEET THE CHEF</a></li>
             </ul>
-            <div id="tabs-1" class="white"><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p></div>
-            <div id="tabs-2" class="white"><p>Phasellus mattis tincidunt nibh. Cras orci urna, blandit id, pretium vel, aliquet ornare, felis. Maecenas scelerisque sem non nisl. Fusce sed lorem in enim dictum bibendum.</p>
+            <div id="tabs-1" class="white"><p>Tetherow Grill is a hidden gem just minutes from downtown Bend. With stunning views of the surrounding Cascade peaks, the Grill is open daily to the public for lunch and dinner. For those warm, sunny days, try our seasonal outdoor dining patio overlooking the golf course. On a cold winter day, sit by the large stone fireplace while sipping on a hot toddy or Irish Coffee. Indulge in our special three-course prix fix dinner or select from our a la carte menu of local favorites. Tetherow uses only the finest meats and vegetables when creating our menus, and we proudly use local purveyors as the season allows.</p></div>
+            <div id="tabs-2" class="white" style="overflow: scroll;"><p style="text-align: center;"><span style="font-size: 1.3em;"><strong>BRUNCH</strong></span><br /> <em>Served 9 am – 2 pm, Sunday</em></p><p><strong>CLASSIC EGGS BENEDICT<strong>  –  </strong>$9</strong><br /> Two poached eggs and black forest ham on a toasted English muffin topped with hollandaise</p><p><strong>SEAFOOD BENEDICT<strong>  –  </strong>$14</strong><br /> Two poached eggs and crab cakes on a toasted English muffin topped with hollandaise</p><p><strong>GARDEN BENEDICT  –  $11</strong><br /> Two poached eggs, Portobello mushroom, tomato and spinach on a toasted English muffin topped with hollandaise</p><p><strong>FILET &amp; EGGS<strong>  –  </strong>$22</strong><br /> 8 oz tenderloin filet, two eggs your way, wild mushrooms, hash browns and basil slaw</p><p><strong>COUNTRY SCRAMBLE<strong><strong>  –  </strong>$</strong>10</strong><br /> Scrambled eggs, cheddar cheese, hash browns, wild mushrooms, onions, peppers, bacon, wild mushrooms, onions, peppers, bacon and basil slaw</p><p><strong>BISCUITS AND GRAVY<strong><strong>  –  </strong>$</strong>8</strong><br /> Buttermilk biscuits smothered in maple sausage gravy</p><p><strong>FRESH FRUIT PANCAKES<strong><strong>  –  </strong>$</strong>9</strong><br /> Griddled golden pancakes, topped with berries and whipped cream</p><p><strong>GRAND MARNIER FRENCH TOAST<strong><strong>  –  </strong>$</strong>9</strong><br /> Texas-style, Grand Marnier sauce, fresh berries, powdered sugar</p><p><strong>YOGURT PARFAIT<strong><strong>  –  </strong>$</strong>9</strong><br /> House made Granola with low-fat yogurt and fresh berries</p><p><strong>BREAKFAST SIDES</strong><br /> Two eggs, any style<strong><strong>  –  </strong>$</strong><strong>3</strong>                   Seasonal fresh fruit<strong><strong>  –  </strong>$</strong><strong>3</strong><br /> Bacon or sausage<strong><strong>  –  </strong>$</strong><strong>2 </strong>                     Hash browns<strong><strong>  –  </strong>$</strong><strong>2</strong><br /> Toast or English muffin<strong><strong>  –  </strong>$</strong><strong>1</strong>               Bagel with cream cheese<strong><strong>  –  </strong>$</strong><strong>3</strong></p>
                 <ul class="bottom-tab-four">
-                    <li><a class="btm" href="#">tab1</a></li>
-                    <li><a class="btm" href="#">tab2</a></li>
-                    <li><a class="btm" href="#">tab3</a></li>
-                    <li><a class="btm" href="#">tab4</a></li>
+                    <li><a class="btm" href="#">BREAKFAST</a></li>
+                    <li><a class="btm" href="#">BRUNCH</a></li>
+                    <li><a class="btm" href="#">LUNCH</a></li>
+                    <li><a class="btm" href="#">DINNER</a></li>
                 </ul>
             </div>
-            <div id="tabs-3" class="white"><p>Nam dui erat, auctor a, dignissim quis, sollicitudin eu, felis. Pellentesque nisi urna, interdum eget, sagittis et, consequat vestibulum, lacus. Mauris porttitor ullamcorper augue.</p></div>
+            <div id="tabs-3" class="white"><h1>DESIGN ME!!</h1></div>
         </div>
 
 
         <div class="real-link">
-            <a href="#">VIEW REAL ESTATE</a>
+            <a href="http://www.tetherow.com/dine/">VIEW SPECIALS</a>
         </div>
 
-        <div class="agent"><span class="bold">CALL AN AGENT: </span><span>DEBBIE DEBBIE (541) 999-9999</span></div>
+        <div class="agent"><span class="bold">MAKE A RESERVATION: </span><span>(541) 388-2582 EXT.120.</span></div>
         
         <div class="learn"><a class="bold" href="#">Learn More at Tetherow.com ></a></div>
 

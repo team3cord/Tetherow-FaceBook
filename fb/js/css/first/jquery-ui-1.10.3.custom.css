@@ -359,7 +359,7 @@ button.ui-button::-moz-focus-inner {
 }
 .ui-tabs .ui-tabs-nav li {
 	width:154px; 
-	height: 29px;
+	height: 25px;
 	border-bottom: 1px solid #E1E1E1;
 }
 .ui-tabs .ui-tabs-nav li a {
