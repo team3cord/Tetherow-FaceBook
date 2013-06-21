@@ -1,1 +1,4 @@
 DirectoryIndex index.php live.php golf.php dine.php events.php stay.php
+
+AddType application/x-httpd-php .php .html
+
