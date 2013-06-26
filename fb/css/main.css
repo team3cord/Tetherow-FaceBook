@@ -120,7 +120,6 @@ a {
     height: 609px;
     width: 814px;
     margin-top: 20px;
-    text-align: center;
     position: relative;
 }
 
@@ -147,6 +146,7 @@ nav a {
     width: 108px;
     font-weight: bold;
     color: #FFF;
+    text-align: center;
     text-decoration: none;
     overflow:visible;
     border-top: 2px solid #FFF;
@@ -247,7 +247,6 @@ nav a:first-child{
 }
 
 .tabbed-content p {
-    padding: 4px;
     overflow: hidden;
 }
 
@@ -266,12 +265,34 @@ nav a:first-child{
     background: hsla(0,0,0,0.5);  /* 50% transparent */
     color: #FFF;
     border: solid 2px #FFF;
+    text-align: center;
     
 }
 .white {
     background: #FFF;
     height: 100%;
     width: 100%;
+}
+.scroll {
+    overflow: scroll;
+}
+
+.flair {
+    font-size: 2em;
+    color: #892529;
+}
+
+.tab-banner {
+    position: absolute;
+    top: 42px;
+    left:5px;
+}
+
+.p-tab {
+    padding: 70px 15px 0px 15px;
+    color: #000000;
+    font-weight: bold;
+    font-size: 11px;
 }
 
 #livetab-one {
@@ -302,48 +323,70 @@ nav a:first-child{
 }
 
 /*----------------NESTED TAB MENU---------------------*/
-
-.bottom-tab-four {
+.bottom-tab {
     margin:0;
     padding:0;
-    width: 473px;
     position: absolute;
+}
+.xtwo {
+    width: 473px;
     left: 4px;
     bottom: -9px;
-
 }
-.bottom-tab-four li {
+
+.xtwo li {
     position: relative;
     display: inline-block;
     float: left;
-    margin:0;
-    padding:0;
-    font-size:12px;
-    width:114px;
-    height: 30px;
-    background: #312B2A;
-    border: 2px solid #FFF;
-}
-.bottom-tab-two {
-    margin:0;
-    padding:0;
-    width: 473px;
-    position: absolute;
-    left: 4px;
-    bottom: -9px;
-
-}
-.bottom-tab-two li {
-    position: relative;
-    display: inline-block;
-    float: left;
-    margin:0;
-    padding:0;
     font-size:12px;
     width:228px;
     height: 30px;
     background: #312B2A;
     border: 2px solid #FFF;
+}
+
+.xthree {
+
+}
+
+.xthree li {
+
+}
+
+.xfour {
+    width: 473px;
+    left: 4px;
+    bottom: -9px;
+}
+
+.xfour li {
+    position: relative;
+    display: inline-block;
+    float: left;
+    font-size:12px;
+    width:114px;
+    height: 30px;
+    background: #312B2A;
+    border: 2px solid #FFF;
+    text-align: center;
+}
+
+.bottom-tab-four {
+
+
+
+}
+.bottom-tab-four li {
+
+}
+.bottom-tab-two {
+
+
+
+
+}
+.bottom-tab-two li {
+
 }
 
 
