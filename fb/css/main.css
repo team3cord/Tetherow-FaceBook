@@ -326,10 +326,13 @@ nav a:first-child{
 .bottom-tab {
     margin:0;
     padding:0;
+    width: 473px;
     position: absolute;
+    text-align: center;
+
 }
 .xtwo {
-    width: 473px;
+
     left: 4px;
     bottom: -9px;
 }
@@ -346,15 +349,22 @@ nav a:first-child{
 }
 
 .xthree {
-
+    left: 4px;
+    bottom: -9px;
 }
 
 .xthree li {
-
+    position: relative;
+    display: inline-block;
+    float: left;
+    font-size:11px;
+    width:153px;
+    height: 30px;
+    background: #312B2A;
+    border: 2px solid #FFF;
 }
 
 .xfour {
-    width: 473px;
     left: 4px;
     bottom: -9px;
 }
@@ -368,7 +378,7 @@ nav a:first-child{
     height: 30px;
     background: #312B2A;
     border: 2px solid #FFF;
-    text-align: center;
+
 }
 
 .bottom-tab-four {
