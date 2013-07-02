@@ -2,41 +2,33 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8e11368c-4023-4dea-97a3-64309eaf4d4e" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fb/img/side-nav-dine.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fb/img/side-nav-events.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fb/img/side-nav-golf.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fb/img/side-nav-inner-shadow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fb/img/side-nav-live-active.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fb/img/side-nav-live.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fb/img/side-nav-play.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fb/img/side-nav-stay.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fb/includes/header.html" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fb/img/fblike.png" afterPath="$PROJECT_DIR$/fb/img/fblike.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fb/img/share.png" afterPath="$PROJECT_DIR$/fb/img/share.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fb/img/tweet.png" afterPath="$PROJECT_DIR$/fb/img/tweet.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fb/dine.html" afterPath="$PROJECT_DIR$/fb/dine.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fb/events.html" afterPath="$PROJECT_DIR$/fb/events.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fb/golf.html" afterPath="$PROJECT_DIR$/fb/golf.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fb/live.html" afterPath="$PROJECT_DIR$/fb/live.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fb/css/main.css" afterPath="$PROJECT_DIR$/fb/css/main.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fb/js/main.js" afterPath="$PROJECT_DIR$/fb/js/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fb/includes/partials.html" afterPath="$PROJECT_DIR$/fb/includes/partials.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fb/stay.html" afterPath="$PROJECT_DIR$/fb/stay.html" />
     </list>
     <ignored path="tetherow-fb-tabs.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="8e11368c-4023-4dea-97a3-64309eaf4d4e" time="1372719124980" ignored="false" />
+    <file path="/Dummy.txt" changelist="8e11368c-4023-4dea-97a3-64309eaf4d4e" time="1372779132802" ignored="false" />
     <file path="/live.php" changelist="8e11368c-4023-4dea-97a3-64309eaf4d4e" time="1371836075367" ignored="false" />
     <file path="/a.html" changelist="8e11368c-4023-4dea-97a3-64309eaf4d4e" time="1371836157220" ignored="false" />
     <file path="/a.js" changelist="8e11368c-4023-4dea-97a3-64309eaf4d4e" time="1372272408545" ignored="false" />
     <file path="/a.coffee" changelist="8e11368c-4023-4dea-97a3-64309eaf4d4e" time="1371836170577" ignored="false" />
     <file path="/a.dart" changelist="8e11368c-4023-4dea-97a3-64309eaf4d4e" time="1371836173076" ignored="false" />
-    <file path="/live.html" changelist="8e11368c-4023-4dea-97a3-64309eaf4d4e" time="1372723230725" ignored="false" />
-    <file path="/golf.html" changelist="8e11368c-4023-4dea-97a3-64309eaf4d4e" time="1372284059130" ignored="false" />
+    <file path="/live.html" changelist="8e11368c-4023-4dea-97a3-64309eaf4d4e" time="1372807851666" ignored="false" />
+    <file path="/golf.html" changelist="8e11368c-4023-4dea-97a3-64309eaf4d4e" time="1372808037253" ignored="false" />
     <file path="/header.html" changelist="8e11368c-4023-4dea-97a3-64309eaf4d4e" time="1371852921362" ignored="false" />
-    <file path="/main.css" changelist="8e11368c-4023-4dea-97a3-64309eaf4d4e" time="1372723677219" ignored="false" />
+    <file path="/main.css" changelist="8e11368c-4023-4dea-97a3-64309eaf4d4e" time="1372808451591" ignored="false" />
     <file path="/dine.html" changelist="8e11368c-4023-4dea-97a3-64309eaf4d4e" time="1372192560788" ignored="false" />
     <file path="/load.html" changelist="8e11368c-4023-4dea-97a3-64309eaf4d4e" time="1372294680748" ignored="false" />
-    <file path="/main.js" changelist="8e11368c-4023-4dea-97a3-64309eaf4d4e" time="1372722655269" ignored="false" />
+    <file path="/main.js" changelist="8e11368c-4023-4dea-97a3-64309eaf4d4e" time="1372807772976" ignored="false" />
+    <file path="/partials.html" changelist="8e11368c-4023-4dea-97a3-64309eaf4d4e" time="1372799502907" ignored="false" />
+    <file path="/stay.html" changelist="8e11368c-4023-4dea-97a3-64309eaf4d4e" time="1372807404914" ignored="false" />
+    <file path="/DummyFile.xpath" changelist="8e11368c-4023-4dea-97a3-64309eaf4d4e" time="1372800896209" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,10 +48,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
+      <file leaf-file-name="main.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fb/css/main.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="155" column="61" selection-start="2800" selection-end="2800" vertical-scroll-proportion="-11.275862">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="live.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/fb/live.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="16" selection-start="1127" selection-end="1170" vertical-scroll-proportion="-16.25">
+            <state line="22" column="51" selection-start="1066" selection-end="1066" vertical-scroll-proportion="-8.444445">
               <folding />
             </state>
           </provider>
@@ -68,7 +69,7 @@
       <file leaf-file-name="golf.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/fb/golf.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="30" column="72" selection-start="1283" selection-end="1283" vertical-scroll-proportion="-18.75">
+            <state line="23" column="74" selection-start="1067" selection-end="1067" vertical-scroll-proportion="-7.3333335">
               <folding />
             </state>
           </provider>
@@ -77,7 +78,7 @@
       <file leaf-file-name="dine.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/fb/dine.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="28" column="70" selection-start="1238" selection-end="1238" vertical-scroll-proportion="-17.5">
+            <state line="21" column="54" selection-start="1054" selection-end="1054" vertical-scroll-proportion="-13.666667">
               <folding />
             </state>
           </provider>
@@ -86,34 +87,27 @@
       <file leaf-file-name="events.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/fb/events.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="91" selection-start="978" selection-end="978" vertical-scroll-proportion="-11.875">
+            <state line="22" column="81" selection-start="1066" selection-end="1066" vertical-scroll-proportion="-14.37037">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="stay.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="stay.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/fb/stay.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="59" column="48" selection-start="2250" selection-end="2250" vertical-scroll-proportion="0.64363635">
-              <folding />
+            <state line="12" column="87" selection-start="614" selection-end="614" vertical-scroll-proportion="-8.444445">
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/fb/css/main.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="205" column="81" selection-start="4098" selection-end="4098" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.js" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="main.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/fb/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="81" selection-start="322" selection-end="322" vertical-scroll-proportion="0.0">
+            <state line="21" column="68" selection-start="622" selection-end="622" vertical-scroll-proportion="0.28520373">
               <folding />
             </state>
           </provider>
@@ -122,7 +116,7 @@
       <file leaf-file-name="partials.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/fb/includes/partials.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="74" selection-start="744" selection-end="744" vertical-scroll-proportion="-9.375">
+            <state line="15" column="50" selection-start="796" selection-end="796" vertical-scroll-proportion="-10.555555">
               <folding />
             </state>
           </provider>
@@ -150,14 +144,14 @@
         <option value="$PROJECT_DIR$/fb/.htaccess" />
         <option value="$PROJECT_DIR$/fb/header.html" />
         <option value="$PROJECT_DIR$/fb/includes/load.html" />
-        <option value="$PROJECT_DIR$/fb/includes/partials.html" />
-        <option value="$PROJECT_DIR$/fb/live.html" />
         <option value="$PROJECT_DIR$/fb/js/main.js" />
-        <option value="$PROJECT_DIR$/fb/css/main.css" />
-        <option value="$PROJECT_DIR$/fb/stay.html" />
+        <option value="$PROJECT_DIR$/fb/includes/partials.html" />
         <option value="$PROJECT_DIR$/fb/golf.html" />
         <option value="$PROJECT_DIR$/fb/dine.html" />
         <option value="$PROJECT_DIR$/fb/events.html" />
+        <option value="$PROJECT_DIR$/fb/live.html" />
+        <option value="$PROJECT_DIR$/fb/stay.html" />
+        <option value="$PROJECT_DIR$/fb/css/main.css" />
       </list>
     </option>
   </component>
@@ -245,7 +239,43 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tetherow-fb-tabs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tetherow-fb-tabs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fb" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="includes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tetherow-fb-tabs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tetherow-fb-tabs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fb" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -256,12 +286,12 @@
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="options.lastSelected" value="reference.settingsdialog.IDE.editor.colors.HTML" />
     <property name="recentsLimit" value="5" />
-    <property name="options.lastSelected" value="editor.preferences.folding" />
     <property name="FullScreen" value="false" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -313,13 +343,13 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1050" height="1590" extended-state="0" />
+    <frame x="0" y="22" width="1050" height="1590" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18945312" sideWeight="0.35667107" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.18945312" sideWeight="0.35667107" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
@@ -394,6 +424,10 @@
   <component name="XDebuggerManager">
     <breakpoint-manager />
   </component>
+  <component name="XPathView.XPathProjectComponent">
+    <history />
+    <find-history />
+  </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <PATH>
       <PATH_ELEMENT>
@@ -449,56 +483,58 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/fb/includes/partials.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="74" selection-start="744" selection-end="744" vertical-scroll-proportion="-9.375">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fb/js/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="81" selection-start="322" selection-end="322" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fb/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="205" column="81" selection-start="4098" selection-end="4098" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fb/live.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="16" selection-start="1127" selection-end="1170" vertical-scroll-proportion="-16.25">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fb/golf.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="72" selection-start="1283" selection-end="1283" vertical-scroll-proportion="-18.75">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fb/dine.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="70" selection-start="1238" selection-end="1238" vertical-scroll-proportion="-17.5">
+        <state line="15" column="50" selection-start="796" selection-end="796" vertical-scroll-proportion="-10.555555">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/fb/events.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="91" selection-start="978" selection-end="978" vertical-scroll-proportion="-11.875">
+        <state line="22" column="81" selection-start="1066" selection-end="1066" vertical-scroll-proportion="-14.37037">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fb/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="155" column="61" selection-start="2800" selection-end="2800" vertical-scroll-proportion="-11.275862">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/fb/stay.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="59" column="48" selection-start="2250" selection-end="2250" vertical-scroll-proportion="0.64363635">
+        <state line="12" column="87" selection-start="614" selection-end="614" vertical-scroll-proportion="-8.444445">
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fb/live.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="51" selection-start="1066" selection-end="1066" vertical-scroll-proportion="-8.444445">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fb/golf.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="74" selection-start="1067" selection-end="1067" vertical-scroll-proportion="-7.3333335">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fb/dine.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="54" selection-start="1054" selection-end="1054" vertical-scroll-proportion="-13.666667">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fb/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="68" selection-start="622" selection-end="622" vertical-scroll-proportion="0.28520373">
           <folding />
         </state>
       </provider>

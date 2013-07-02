@@ -1,5 +1,6 @@
  //------------------------------- TABS WIDGET ------------------------------------------//
-$(function() {
+
+ $(function() {
 
     $( "#tabs" ).tabs();
 
@@ -12,16 +13,20 @@ $(function() {
             $( this ).removeClass( "ui-state-hover" );
         }
     );
-});
+
+
  //-------------------------------- INCLUDE PARTIALS ---------------------------------------//
-$(function(){
-    $('#header').load('includes/partials.html #hdr');
+
+
+    $('#header').load('includes/partials.html #hdr', function (){
+          $(thisPage).removeClass('flat').addClass('point');
+    });
     $('#social').load('includes/partials.html #social-links');
-});
 
 
 //  ------------------------------- NESTED TABS AJAX LOAD ---------------------------------//
-$(function(){
+
+
     $('.bottom-tab').on('click','a', function(){
         var that = $(this),
             loadDiv = that.data('sp-file'),
@@ -29,7 +34,11 @@ $(function(){
         $('div#' + changeDiv).replaceWith($('#' + changeDiv).load('includes/load.html #' + loadDiv));
 
     });
-});
 
 
+//--------------------------------- NAVIGATION MENU --------------------------------------//
+
+
+
+ });
 

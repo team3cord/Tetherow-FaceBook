@@ -116,9 +116,8 @@ a {
 
 .content-wrap {
     margin: 20px 20px 15px 20px;
-    background: #b4343c;
-    height: 609px;
-    width: 814px;
+    height: 608px;
+    width: 809px;
     margin-top: 20px;
     position: relative;
 }
@@ -130,11 +129,10 @@ nav {
     top: 0;
     left: 0;
     height: 610px;
-    width:108px;
+    width:106px;
     display: block;
     float: left;
-    color: #FFF;
-    border-right: 2px solid #FFF;
+
 
 }
 
@@ -142,22 +140,20 @@ nav a {
     display: block;
     float: left;
     z-index: 22;
-    height: 99.8px;
-    width: 108px;
+    height: 102px;
     font-weight: bold;
     color: #FFF;
     text-align: center;
     text-decoration: none;
     overflow:visible;
-    border-top: 2px solid #FFF;
    }
 
-nav a:hover {
+/*nav a:hover {
     -moz-box-shadow: inset 0px 9px 40px 5px #767676;
     -webkit-box-shadow: inset 0px 9px 40px 5px #767676;
     box-shadow: inset 0px 9px 40px 5px #767676;
     overflow: hidden;
-}   
+}   */
 
 #none {
     display: none;
@@ -168,66 +164,70 @@ nav span {
 }
 
 nav a:first-child{
+    width: 108px;
+    height: 99px;
     color: #691500;
     background:#FFF url('../img/side-logo.png') no-repeat 8px 8px;
 }
-#nv-l {background: url('../img/live.png') no-repeat 0px 0px;}
-#nv-g {background: url('../img/golf.png') no-repeat 0px 0px}
-#nv-d {background: url('../img/dine.png') no-repeat 0px 0px}
-#nv-e {background: url('../img/events.png') no-repeat 0px 0px}
-#nv-s {background: url('../img/stay.png') no-repeat 0px 0px}
+
+#nv-l.flat {width: 108px; background: url('../img/live.png') no-repeat 0px 0px;}
+#nv-g.flat {width: 108px; background: url('../img/golf.png') no-repeat 0px 0px}
+#nv-d.flat {width: 108px; background: url('../img/dine.png') no-repeat 0px 0px}
+#nv-e.flat {width: 108px; background: url('../img/events.png') no-repeat 0px 0px}
+#nv-s.flat {width: 108px; background: url('../img/stay.png') no-repeat 0px 0px}
+
+/*---------------ACTIVE LINKS------------------------*/
+
+#nv-l.point {width: 130px; background: url('../img/live_active.png') no-repeat 0px 0px;}
+#nv-g.point {width: 130px; background: url('../img/golf_active.png') no-repeat 0px 0px}
+#nv-d.point {width: 130px; background: url('../img/dine_active.png') no-repeat 0px 0px}
+#nv-e.point {width: 130px; background: url('../img/events_active.png') no-repeat 0px 0px}
+#nv-s.point {width: 130px; background: url('../img/stay_active.png') no-repeat 0px 0px}
 
 
-.point {
-    width: 0;
-    height: 0;
-    border-top: 50px solid transparent;
-    border-left: 100px solid red;
-    border-bottom: 50px solid transparent;
-}
 
 /*----------------Page Backgrounds--------------------*/
 #live-pg {
     background-image: url('../img/live-bg.jpg');
     background-repeat: no-repeat;
-    background-position: 111px 1px;
+    background-position: 107px 0px;
 }
 #golf-pg {
     background-image: url('../img/golf-bg.jpg');
     background-repeat: no-repeat;
-    background-position: 111px 1px;
+    background-position: 107px 0px;
 }
 #dine-pg {
     background-image: url('../img/dine-bg.jpg');
     background-repeat: no-repeat;
-    background-position: 111px 1px;
+    background-position: 107px 0px;
 }
 #events-pg {
     background-image: url('../img/events-bg.jpg');
     background-repeat: no-repeat;
-    background-position: 111px 1px;
+    background-position: 107px 0px;
 }
 #stay-pg {
     background-image: url('../img/stay-bg.jpg');
     background-repeat: no-repeat;
-    background-position: 111px 1px;
+    background-position: 107px 0px;
 }
 
 /*----------------SOCIAL ICONS-----------------------*/
 
-
-
-#social-links li {
-    display: inline-block;
-    float: right;
-    width: 69px;
-    height: 25px;
-    margin-top: 4px;
+#social {
+    position: relative;
 }
 
-#share {background: url('../img/share.png')no-repeat 1px 3px;}
-#like {background: url('../img/fblike.png')no-repeat 12px 3px;}
-#tweet {background: url('../img/tweet.png')no-repeat 2px 3px;}
+#social-links li {
+    position: absolute;
+    height: 16px;
+    width: 60px;
+}
+
+#share {top: 10px; right: 138px; background: url('../img/share.png')no-repeat 0px 0px;}
+#like {top: 10px; right: 69px;background: url('../img/fblike.png')no-repeat 0px 0px;}
+#tweet {top: 10px; right: 10px;background: url('../img/tweet.png')no-repeat 0px 0px;}
 
 
 /*----------------Tabbed Content---------------------*/
