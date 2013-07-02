@@ -16,53 +16,17 @@
         <link rel="stylesheet" href="css/main.css">
         <link href="js/css/first/jquery-ui-1.10.3.custom.css" rel="stylesheet">
         <script src="js/vendor/jquery-1.9.1.min.js"></script>
-        <script src="js/vendor/jquery-ui-1.10.3.custom.js"></script>  
-        <script>
-            $(function() {
-                
-                $( "#tabs" ).tabs();
-
-                // Hover states on the static widgets
-                $( "#dialog-link, #icons li" ).hover(
-                    function() {
-                        $( this ).addClass( "ui-state-hover" );
-                    },
-                    function() {
-                        $( this ).removeClass( "ui-state-hover" );
-                    }
-                );
-            });
-        </script>
-         
-        
-        
-
-
-
-
+        <script src="js/vendor/jquery-ui-1.10.3.custom.js"></script>
+        <script src="js/main.js"></script>
 
     </head>
     <body>
         <div class="fb-menu"></div>
         <div class="fb-wrap">
             <div id="dine-pg" class="content-wrap">
-                <div class="social">
-                    <ul>
-                        <li id="tweet"><a href="#"></a></li>
-                        <li id="like"><a href="#"></a></li>
-                        <li id="share"><a href="#"></a></li>
-                        
-                    </ul>
-                </div>
-        
-        <nav>
-            <a id="nv-t" href="#"><span id="none">TETHEROW</span></a>
-            <a id="nv-l" href="http://localhost:8888/tetherow-fb-tabs/fb/live.html"><span>LIVE</span></a>
-            <a id="nv-g" href="http://localhost:8888/tetherow-fb-tabs/fb/golf.html"><span>GOLF</span></a>
-            <a class="test" id="nv-d" href="http://localhost:8888/tetherow-fb-tabs/fb/dine.html"><span>DINE</span></a>
-            <a id="nv-e" href="http://localhost:8888/tetherow-fb-tabs/fb/events.html"><span>EVENTS</span></a>
-            <a id="nv-s" href="http://localhost:8888/tetherow-fb-tabs/fb/stay.html"><span>STAY</span></a>
-        </nav>
+                <div id="social"></div>    //import main.js
+
+        <div id="header"></div>         //import main.js
         <div id="tabs" class="tabbed-content">
             <ul class="top-tab">
                 <li><a href="#tabs-1">OUR RESTAURANT</a></li>

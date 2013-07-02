@@ -134,7 +134,7 @@ nav {
     display: block;
     float: left;
     color: #FFF;
-    border-right: 3px solid #FFF;
+    border-right: 2px solid #FFF;
 
 }
 
@@ -171,16 +171,11 @@ nav a:first-child{
     color: #691500;
     background:#FFF url('../img/side-logo.png') no-repeat 8px 8px;
 }
-#nv-l {
-    background: url('../img/side-nav-live-active.png') no-repeat 0px 0px;
-    width:132px;
-    border: none;
-
-}
-#nv-g {background: url('../img/side-nav-golf.jpg') no-repeat 0px 0px}
-#nv-d {background: url('../img/side-nav-dine.jpg') no-repeat 0px 0px}
-#nv-e {background: url('../img/side-nav-events.jpg') no-repeat 0px 0px}
-#nv-s {background: url('../img/side-nav-stay.jpg') no-repeat 0px 0px}
+#nv-l {background: url('../img/live.png') no-repeat 0px 0px;}
+#nv-g {background: url('../img/golf.png') no-repeat 0px 0px}
+#nv-d {background: url('../img/dine.png') no-repeat 0px 0px}
+#nv-e {background: url('../img/events.png') no-repeat 0px 0px}
+#nv-s {background: url('../img/stay.png') no-repeat 0px 0px}
 
 
 .point {
@@ -222,18 +217,17 @@ nav a:first-child{
 
 
 
-.social ul li {
+#social-links li {
     display: inline-block;
     float: right;
-    background: #00FF00;
-    width: 60px;
+    width: 69px;
     height: 25px;
     margin-top: 4px;
 }
 
-#share {background: url('../img/share.png')no-repeat;}
-#like {background: url('../img/fblike.png')no-repeat;}
-#tweet {background: url('../img/tweet.png')no-repeat;}
+#share {background: url('../img/share.png')no-repeat 1px 3px;}
+#like {background: url('../img/fblike.png')no-repeat 12px 3px;}
+#tweet {background: url('../img/tweet.png')no-repeat 2px 3px;}
 
 
 /*----------------Tabbed Content---------------------*/

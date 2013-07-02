@@ -15,10 +15,11 @@ $(function() {
 });
  //-------------------------------- INCLUDE PARTIALS ---------------------------------------//
 $(function(){
-    $('#header').load('includes/header.html #hdr');
-    console.log(this);
-
+    $('#header').load('includes/partials.html #hdr');
+    $('#social').load('includes/partials.html #social-links');
 });
+
+
 //  ------------------------------- NESTED TABS AJAX LOAD ---------------------------------//
 $(function(){
     $('.bottom-tab').on('click','a', function(){
@@ -29,3 +30,6 @@ $(function(){
 
     });
 });
+
+
+
