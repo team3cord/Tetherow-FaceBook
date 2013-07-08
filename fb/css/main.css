@@ -470,6 +470,136 @@ a.btm {
 }
 .table-centered {text-align:center;}
 
+/*---------------- LIVE NEIGHBORHOODS -----------------------*/
+
+.the-map {
+    margin: -14px 0 0 -21px;
+}
+
+.hood-content {
+    margin-top: -15px;
+}
+
+#logo-cr {
+    position: absolute;
+    top: 47px;
+    left: 103px;
+    z-index: 9;
+}
+
+
+#crescent-title {
+    font-size: 16px;
+    text-align: center;
+    margin: 0 0 0 47px;
+    padding: 0 0 0 76px;
+    white-space: nowrap;
+    text-transform: uppercase;
+    overflow: hidden;
+    position: relative;
+    bottom: -12px;
+    border-width: 0 20px;
+    background: #FFF;
+    max-width: 60%;
+}
+
+#logo-gl {
+    position: absolute;
+    top: 47px;
+    left: 125px;
+    z-index: 9;
+}
+
+#glen-title {
+    font-size: 16px;
+    text-align: center;
+    margin: 0 0 0 44px;
+    padding: 0 0 0 80px;
+    white-space: nowrap;
+    text-transform: uppercase;
+    overflow: hidden;
+    position: relative;
+    bottom: -12px;
+    border-width: 0 20px;
+    background: #FFF;
+    max-width: 60%;
+}
+
+#logo-he {
+    position: absolute;
+    top: 47px;
+    left: 103px;
+    z-index: 9;
+}
+
+#heath-title {
+    font-size: 16px;
+    text-align: center;
+    margin: 0 0 0 47px;
+    padding: 0 0 0 76px;
+    white-space: nowrap;
+    text-transform: uppercase;
+    overflow: hidden;
+    position: relative;
+    bottom: -12px;
+    border-width: 0 20px;
+    background: #FFF;
+    max-width: 60%;
+}
+
+#triple-title {
+    font-size: 16px;
+    text-align: center;
+    margin: 0 0 0 47px;
+    padding: 0 0 0 76px;
+    white-space: nowrap;
+    text-transform: uppercase;
+    overflow: hidden;
+    position: relative;
+    bottom: -12px;
+    border-width: 0 20px;
+    background: #FFF;
+    max-width: 60%;
+}
+
+#logo-tr {
+    position: absolute;
+    top: 47px;
+    left: 103px;
+    z-index: 9;
+}
+
+.line {
+    border-bottom: 1px solid #8E272C;
+}
+
+.hood-img {
+    float: left;
+    margin-top: 25px;
+    width: 45%;
+}
+
+.desc-rt {
+    float: right;
+    font-size: 13px;
+    font-weight: bold;
+    width: 52%;
+    margin-top: -83px;
+}
+
+.romance {
+    width: 100%;
+    font-size: 13px;
+    padding-top: 7px;
+}
+
+.red {
+    color: #8E272C;
+}
+
+
+
+
 /* ==========================================================================
   ORBITS IMAGE SLIDER
   ========================================================================== */
