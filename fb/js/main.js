@@ -19,21 +19,51 @@
 
 
     $('#header').load('includes/partials.html #hdr', function (){
-          $(thisPage).removeClass('flat').addClass('point');
+          $(thisPage).removeClass('flat').addClass('point');       //  ACTIVE STATE
     });
+
     $('#social').load('includes/partials.html #social-links');
 
 
 //  ------------------------------- NESTED TABS AJAX LOAD ---------------------------------//
 
+     $('.static').on('click','a', function(){           // CONTENT NOT A SLIDER LOAD
+         var that = $(this),
+             loadDiv = that.data('sp-file'),
+             changeDiv = that.data('sp-id');
+         $('div#' + changeDiv).replaceWith($('#' + changeDiv).load('includes/load.html #' + loadDiv));
 
-    $('.bottom-tab').on('click','a', function(){
+     });
+
+    $('#tour1').on('click', function(){
         var that = $(this),
             loadDiv = that.data('sp-file'),
             changeDiv = that.data('sp-id');
-        $('div#' + changeDiv).replaceWith($('#' + changeDiv).load('includes/load.html #' + loadDiv));
+        $('div#' + changeDiv).replaceWith($('#' + changeDiv).load('includes/load.html #' + loadDiv,function(){
+            $('#property').orbit();                     // ORBITS SLIDER
+        }));
 
     });
+
+     $('#tour2').on('click', function(){
+         var that = $(this),
+             loadDiv = that.data('sp-file'),
+             changeDiv = that.data('sp-id');
+         $('div#' + changeDiv).replaceWith($('#' + changeDiv).load('includes/load.html #' + loadDiv,function(){
+             $('#community').orbit();                     // ORBITS SLIDER
+         }));
+
+     });
+
+     $('#tour3').on('click', function(){
+         var that = $(this),
+             loadDiv = that.data('sp-file'),
+             changeDiv = that.data('sp-id');
+         $('div#' + changeDiv).replaceWith($('#' + changeDiv).load('includes/load.html #' + loadDiv,function(){
+             $('#homes').orbit();                     // ORBITS SLIDER
+         }));
+
+     });
 
 
 //--------------------------------- NAVIGATION MENU --------------------------------------//

@@ -245,20 +245,20 @@ nav a:first-child{
 }
 
 .top-tab {
-    margin:0;
-    padding:0;
+    border: solid 1px #FFF;
+    height: 33px;
 }
 
 .top-tab li {
     display: inline-block;
     float: left; 
-    padding-top: 10px;
+    /*padding-top: 10px;*/
     font-size:12px;
-    width:154px;
-    height: 30px;
+    width:32.73%;
+    height: 32px;
     background: hsla(0,0,0,0.5);  /* 50% transparent */
     color: #FFF;
-    border: solid 2px #FFF;
+    border: solid 1px #FFF;
     text-align: center;
     
 }
@@ -316,6 +316,11 @@ nav a:first-child{
     padding: 10px 0px 10px 0px;
 }
 
+#inner-3 {
+    margin-top: -15px;
+    margin-left: -21px;
+}
+
 /*----------------NESTED TAB MENU---------------------*/
 .bottom-tab {
     margin:0;
@@ -328,7 +333,7 @@ nav a:first-child{
 .xtwo {
 
     left: 4px;
-    bottom: -9px;
+    bottom: -8px;
 }
 
 .xtwo li {
@@ -337,14 +342,14 @@ nav a:first-child{
     float: left;
     font-size:12px;
     width:228px;
-    height: 30px;
+    height: 29px;
     background: #312B2A;
     border: 2px solid #FFF;
 }
 
 .xthree {
     left: 4px;
-    bottom: -9px;
+    bottom: -7px;
 }
 
 .xthree li {
@@ -352,15 +357,15 @@ nav a:first-child{
     display: inline-block;
     float: left;
     font-size:11px;
-    width:153px;
-    height: 30px;
+    width:32.86%;
+    height: 29px;
     background: #312B2A;
-    border: 2px solid #FFF;
+    border: 1px solid #FFF;
 }
 
 .xfour {
     left: 4px;
-    bottom: -9px;
+    bottom: -7px;
 }
 
 .xfour li {
@@ -368,10 +373,10 @@ nav a:first-child{
     display: inline-block;
     float: left;
     font-size:12px;
-    width:114px;
-    height: 30px;
+    width:24.5%;
+    height: 29px;
     background: #312B2A;
-    border: 2px solid #FFF;
+    border: 1px solid #FFF;
 
 }
 
@@ -464,6 +469,216 @@ a.btm {
     color: #FFF; font-size:13px; padding:6px;
 }
 .table-centered {text-align:center;}
+
+/* ==========================================================================
+  ORBITS IMAGE SLIDER
+  ========================================================================== */
+
+/*
+
+/* CSS for jQuery Orbit Plugin 1.2.3
+ * www.ZURB.com/playground
+ * Copyright 2010, ZURB
+ * Free to use under the MIT license.
+ * http://www.opensource.org/licenses/mit-license.php
+
+
+
+/* PUT IN YOUR SLIDER ID AND SIZE TO MAKE LOAD BEAUTIFULLY
+   ================================================== */
+#property {
+    width: 470px;
+    height: 250px;
+    background: #000 url('../img/loading.gif') no-repeat center center;
+    overflow: hidden; }
+#property>img,
+#property>div,
+#property>a { display: none; }
+
+.content-prop { background: url('../img/golfacademy.jpg');  }
+
+#community {
+    width: 470px;
+    height: 250px;
+    background: #000 url('../img/loading.gif') no-repeat center center;
+    overflow: hidden; }
+#community>img,
+#community>div,
+#community>a { display: none; }
+
+.content-comm { background: url('../img/bubbles.jpg'); }
+
+#homes {
+    width: 470px;
+    height: 250px;
+    background: #000 url('../img/loading.gif') no-repeat center center;
+    overflow: hidden; }
+#homes>img,
+#homes>div,
+#homes>a { display: none; }
+
+.content-homes { background: url('../img/kitchen.jpg'); }
+
+/*.content h1 {*/
+    /*font-size: 40px;*/
+    /*text-transform: uppercase;*/
+    /*font-weight: bold;*/
+    /*text-align: center;*/
+    /*margin-top: 180px;*/
+    /*color: #222;*/
+    /*line-height: 50px;  }*/
+/*.content h3 {*/
+    /*text-align: center;*/
+    /*font-size: 22px;*/
+    /*color: #222; }*/
+
+
+
+/* CONTAINER
+   ================================================== */
+
+div.orbit-wrapper {
+    width: 1px;
+    height: 1px;
+    position: relative; }
+
+div.orbit {
+    width: 1px;
+    height: 1px;
+    position: relative;
+    overflow: hidden }
+
+div.orbit>img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: none; }
+
+div.orbit>a {
+    border: none;
+    position: absolute;
+    top: 0;
+    left: 0;
+    line-height: 0;
+    display: none; }
+
+.orbit>div {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 470px;
+    height: 250px; }
+
+/* Note: If your slider only uses content or anchors, you're going to want to put the width and height declarations on the ".orbit>div" and "div.orbit>a" tags in addition to just the .orbit-wrapper */
+
+
+/* TIMER
+   ================================================== */
+
+div.timer {
+    width: 40px;
+    height: 40px;
+    overflow: hidden;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    opacity: .6;
+    cursor: pointer;
+    z-index: 1001; }
+
+span.rotator {
+    display: block;
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    top: 0;
+    left: -20px;
+    background: url('../img/rotator-black.png') no-repeat;
+    z-index: 3; }
+
+span.mask {
+    display: block;
+    width: 20px;
+    height: 40px;
+    position: absolute;
+    top: 0;
+    right: 0;
+    z-index: 2;
+    overflow: hidden; }
+
+span.rotator.move {
+    left: 0 }
+
+span.mask.move {
+    width: 40px;
+    left: 0;
+    background: url('../img/timer-black.png') repeat 0 0; }
+
+span.pause {
+    display: block;
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background: url('../img/pause-black.png') no-repeat;
+    z-index: 4;
+    opacity: 0; }
+
+span.pause.active {
+    background: url('../img/pause-black.png') no-repeat 0 -40px }
+
+div.timer:hover span.pause,
+span.pause.active {
+    opacity: 1 }
+
+
+/* CAPTIONS
+   ================================================== */
+
+.orbit-caption {
+    display: none;
+    font-family: "HelveticaNeue", "Helvetica-Neue", Helvetica, Arial, sans-serif; }
+
+.orbit-wrapper .orbit-caption {
+    background: #000;
+    background: rgba(0,0,0,.6);
+    z-index: 1000;
+    color: #fff;
+    text-align: center;
+    padding: 7px 0;
+    font-size: 13px;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    width: 100%; }
+
+
+/* DIRECTIONAL NAV
+   ================================================== */
+
+div.slider-nav {
+    display: block }
+
+div.slider-nav span {
+    width: 35px;
+    height: 45px;
+    text-indent: -9999px;
+    position: absolute;
+    z-index: 1000;
+    top: 60%;
+    margin-top: -50px;
+    cursor: pointer; }
+
+div.slider-nav span.right {
+    background: url('../img/right-arrow1.png');
+    right: 0; }
+
+div.slider-nav span.left {
+    background: url('../img/left-arrow1.png');
+    left: 0; }
+
+
 
 
 
