@@ -271,6 +271,10 @@ nav a:first-child{
     overflow: scroll;
 }
 
+.menus {
+    font-size: 12px;
+}
+
 .flair {
     font-size: 2em;
     color: #892529;
@@ -376,7 +380,8 @@ nav a:first-child{
 
 .xfour {
     left: 4px;
-    bottom: -7px;
+    bottom: -8px;
+    border-bottom: 1px solid #FFF;
 }
 
 .xfour li {
@@ -490,7 +495,7 @@ a.btm {
 /*---------------- LIVE NEIGHBORHOODS -----------------------*/
 
 .the-map {
-    margin: -14px 0 0 -21px;
+    margin: -14px 0 0 -17px;
 }
 
 .hood-content {
