@@ -278,7 +278,7 @@ nav a:first-child{
 
 .tab-banner {
     position: absolute;
-    top: 39px;
+    top: 42px;
     left:5px;
 }
 
@@ -289,15 +289,9 @@ nav a:first-child{
     font-size: 11px;
 }
 
-#tabs-1 h3 {
-    padding-top: 60px;
-    text-align: center;
-}
+#livetab-one {
 
-.small-txt {
-    font-size: 13px;
 }
-
 .active {
     color: yellow;
     background: black;
@@ -322,14 +316,9 @@ nav a:first-child{
     padding: 10px 0px 10px 0px;
 }
 
-#inner-2 {
-    margin-top: -1px;
-    margin-left: -3px;
-}
-
 #inner-3 {
     margin-top: -15px;
-    margin-left: -20px;
+    margin-left: -21px;
 }
 
 /*----------------NESTED TAB MENU---------------------*/
@@ -382,16 +371,14 @@ nav a:first-child{
 .xfour li {
     position: relative;
     display: inline-block;
-    background: #312B2A;
     float: left;
     font-size:12px;
     width:24.5%;
     height: 29px;
+    background: #312B2A;
     border: 1px solid #FFF;
 
 }
-
-.tab-active {background: #8e272c !important;}
 
 .bottom-tab-four {
 
@@ -424,25 +411,21 @@ a.btm {
 /*----------------Outside Links-----------------------*/
 
 .real-link {
-    background: url('../img/pannel1.png')no-repeat 0px 0px;
     position: absolute;
-    top: 50%;
+    top: 300px;
     right: 0px;
-    height: 59px;
-    width: 91px;
-    z-index: 9;
+    height: 63px;
+    width:93px;
+    background-color: #73202E;
 }
-
 
 .real-link a {
     position: relative;
     display: block;
-    padding: 7px 10px 10px 10px;
-    text-align: center;
     font-weight: bold;
-    font-size: 11px;
-    margin-top: 6px;
-
+    font-size: 14px;
+    margin-top: 7px;
+    border-bottom: 1px solid #FFF;
 }
  
 .agent {
@@ -495,7 +478,6 @@ a.btm {
 
 .hood-content {
     margin-top: -15px;
-    display: none;
 }
 
 #logo-cr {
@@ -615,72 +597,7 @@ a.btm {
     color: #8E272C;
 }
 
-/* Table Styles */
 
-.popup-content table tbody tr th, .popup-content table tbody tr td  {
-    font-family: 'Geometric415BT-MediumA';
-    font-size: 0.9em;
-    line-height: 14px;
-}
-
-
-.popup-content .alt.tdsmallsidepadding .tdvalue.tdcenter {
-    text-align: center;
-    font-size:13px;
-}
-.popup-content .alt4.tdsmallsidepadding .tdvalue.tdcenter {
-    text-align: center;
-    font-size:13px;
-}
-.popup-content .alt4.tdsmallsidepadding .tdvalue.tdcenter {
-    text-align: center;
-    font-size:13px;
-}
-.popup-content .alt4.tdsmallsidepadding .tdvalue.tdcenter2 {
-    text-align: center;
-    font-size:13px;
-}
-.popup-content .teetime-table-header {
-    color: #FFF;
-    font-size:13px;
-    padding:5px 6px 2px 6px;
-    border-right: 1px solid #511204;
-    border-left: 1px solid #98402c;
-}
-
-
-.popup-content .table-border-right {
-    border-right: 1px solid #e9e9e9;
-}
-
-.popup-content .table-borderleft-none {
-    border-left:none;
-}
-
-.popup-content .table-centered {text-align:center;}
-
-.popup-content td {
-    border-top: 1px solid #e9e9e9;
-    border-left: 1px solid #e9e9e9;
-    padding:6px;
-    font-family: 'geometric_415_literegular','helvetica';
-}
-
-.popup-content .table-title {font-size: 13px;font-family: 'geometric_415_literegular','helvetica';}
-
-.popup-content ul li{
-    list-style-type: disc;
-    color: #2f2826;
-    font-size: 0.9em;
-    line-height: 22px;
-}
-
-.popup-content ol li{
-    list-style-type: disc;
-    color: #2f2826;
-    font-size: 0.9em;
-    line-height: 22px;
-}
 
 
 /* ==========================================================================

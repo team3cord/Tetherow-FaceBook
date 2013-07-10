@@ -31,9 +31,7 @@
          var that = $(this),
              loadDiv = that.data('sp-file'),
              changeDiv = that.data('sp-id');
-         $('div#' + changeDiv).replaceWith($('#' + changeDiv).load('includes/load.html #' + loadDiv,function(){
-             $('.hood-content').fadeIn('slow');
-         }));
+         $('div#' + changeDiv).replaceWith($('#' + changeDiv).load('includes/load.html #' + loadDiv));
 
      });
 
@@ -70,11 +68,6 @@
 
 //--------------------------------- NAVIGATION MENU --------------------------------------//
 
-
-         $('.bottom-tab li').on('click', function(){
-             $('.bottom-tab li').removeClass('tab-active'),
-             $(this).toggleClass('tab-active');
-         });
 
 
  });
