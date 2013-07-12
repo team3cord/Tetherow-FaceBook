@@ -68,6 +68,18 @@
      });
 
 
+     $('#event1').on('click', function(){
+         var that = $(this),
+             loadDiv = that.data('sp-file'),
+             changeDiv = that.data('sp-id');
+         $('div#' + changeDiv).replaceWith($('#' + changeDiv).load('includes/load.html #' + loadDiv,function(){
+             $('#wedding').orbit();                     // ORBITS SLIDER
+         }));
+
+     });
+
+
+
 //--------------------------------- NAVIGATION MENU --------------------------------------//
 
 

@@ -3,13 +3,20 @@
   <component name="ChangeListManager">
     <list default="true" id="8e11368c-4023-4dea-97a3-64309eaf4d4e" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fb/dine.html" afterPath="$PROJECT_DIR$/fb/dine.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fb/events.html" afterPath="$PROJECT_DIR$/fb/events.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fb/golf.html" afterPath="$PROJECT_DIR$/fb/golf.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fb/js/vendor/jquery-1.9.1.min.js" afterPath="$PROJECT_DIR$/fb/js/vendor/jquery-1.9.1.min.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fb/live.html" afterPath="$PROJECT_DIR$/fb/live.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fb/includes/load.html" afterPath="$PROJECT_DIR$/fb/includes/load.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fb/css/main.css" afterPath="$PROJECT_DIR$/fb/css/main.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fb/js/main.js" afterPath="$PROJECT_DIR$/fb/js/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fb/includes/partials.html" afterPath="$PROJECT_DIR$/fb/includes/partials.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fb/stay.html" afterPath="$PROJECT_DIR$/fb/stay.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="tetherow-fb-tabs.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="8e11368c-4023-4dea-97a3-64309eaf4d4e" time="1373472497283" ignored="false" />
+    <file path="/Dummy.txt" changelist="8e11368c-4023-4dea-97a3-64309eaf4d4e" time="1373644214825" ignored="false" />
     <file path="/live.php" changelist="8e11368c-4023-4dea-97a3-64309eaf4d4e" time="1371836075367" ignored="false" />
     <file path="/a.html" changelist="8e11368c-4023-4dea-97a3-64309eaf4d4e" time="1371836157220" ignored="false" />
     <file path="/a.js" changelist="8e11368c-4023-4dea-97a3-64309eaf4d4e" time="1372272408545" ignored="false" />
@@ -18,14 +25,15 @@
     <file path="/live.html" changelist="8e11368c-4023-4dea-97a3-64309eaf4d4e" time="1373410928694" ignored="false" />
     <file path="/golf.html" changelist="8e11368c-4023-4dea-97a3-64309eaf4d4e" time="1373484863948" ignored="false" />
     <file path="/header.html" changelist="8e11368c-4023-4dea-97a3-64309eaf4d4e" time="1371852921362" ignored="false" />
-    <file path="/main.css" changelist="8e11368c-4023-4dea-97a3-64309eaf4d4e" time="1373495257590" ignored="false" />
-    <file path="/dine.html" changelist="8e11368c-4023-4dea-97a3-64309eaf4d4e" time="1373498566946" ignored="false" />
-    <file path="/load.html" changelist="8e11368c-4023-4dea-97a3-64309eaf4d4e" time="1373497809397" ignored="false" />
+    <file path="/main.css" changelist="8e11368c-4023-4dea-97a3-64309eaf4d4e" time="1373663572567" ignored="false" />
+    <file path="/dine.html" changelist="8e11368c-4023-4dea-97a3-64309eaf4d4e" time="1373576345909" ignored="false" />
+    <file path="/load.html" changelist="8e11368c-4023-4dea-97a3-64309eaf4d4e" time="1373653154396" ignored="false" />
     <file path="/main.js" changelist="8e11368c-4023-4dea-97a3-64309eaf4d4e" time="1373474194243" ignored="false" />
-    <file path="/partials.html" changelist="8e11368c-4023-4dea-97a3-64309eaf4d4e" time="1372799502907" ignored="false" />
-    <file path="/stay.html" changelist="8e11368c-4023-4dea-97a3-64309eaf4d4e" time="1372807404914" ignored="false" />
+    <file path="/partials.html" changelist="8e11368c-4023-4dea-97a3-64309eaf4d4e" time="1373651041193" ignored="false" />
+    <file path="/stay.html" changelist="8e11368c-4023-4dea-97a3-64309eaf4d4e" time="1373663583469" ignored="false" />
     <file path="/DummyFile.xpath" changelist="8e11368c-4023-4dea-97a3-64309eaf4d4e" time="1372800896209" ignored="false" />
     <file path="/jquery-ui-1.10.3.custom.css" changelist="8e11368c-4023-4dea-97a3-64309eaf4d4e" time="1373310402598" ignored="false" />
+    <file path="/events.html" changelist="8e11368c-4023-4dea-97a3-64309eaf4d4e" time="1373654143731" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,16 +56,25 @@
       <file leaf-file-name="main.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/fb/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="501" column="48" selection-start="9150" selection-end="9150" vertical-scroll-proportion="-21.37931">
+            <state line="347" column="48" selection-start="6666" selection-end="6666" vertical-scroll-proportion="-26.206896">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="partials.html" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/fb/includes/partials.html">
+      <file leaf-file-name="stay.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/fb/stay.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="52" selection-start="796" selection-end="796" vertical-scroll-proportion="0.20328103">
+            <state line="59" column="73" selection-start="2324" selection-end="2324" vertical-scroll-proportion="0.8146802">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dine.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fb/dine.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="37" column="28" selection-start="1669" selection-end="1679" vertical-scroll-proportion="-14.37037">
               <folding />
             </state>
           </provider>
@@ -66,60 +83,9 @@
       <file leaf-file-name="load.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/fb/includes/load.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="76" column="58" selection-start="5297" selection-end="5297" vertical-scroll-proportion="11.962963">
+            <state line="121" column="60" selection-start="7033" selection-end="7033" vertical-scroll-proportion="5.9259257">
               <folding>
-                <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#2;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#3;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#7;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#8;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#9;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#10;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#11;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#0;n#div#11;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#p#0;n#div#11;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#1;n#div#11;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#2;n#div#11;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#3;n#div#11;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#4;n#div#11;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#5;n#div#11;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#6;n#div#11;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#7;n#div#11;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#8;n#div#11;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#9;n#div#11;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#10;n#div#11;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#11;n#div#11;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#12;n#div#11;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#13;n#div#11;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#14;n#div#11;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#15;n#div#11;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#16;n#div#11;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#17;n#div#11;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#18;n#div#11;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#19;n#div#11;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#20;n#div#11;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#21;n#div#11;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#22;n#div#11;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#12;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#0;n#div#12;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#p#0;n#div#12;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#13;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#0;n#div#13;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#p#0;n#div#13;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#strong#0;n#p#0;n#div#0;n#div#13;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#strong#0;n#p#7;n#div#0;n#div#13;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#strong#0;n#p#16;n#div#0;n#div#13;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#14;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#0;n#div#14;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#p#0;n#div#14;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#14;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#0;n#div#1;n#div#0;n#div#0;n#div#14;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#0;n#div#1;n#div#0;n#div#14;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#0;n#div#0;n#div#1;n#div#0;n#div#14;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#0;n#div#2;n#div#0;n#div#14;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#0;n#div#0;n#div#2;n#div#0;n#div#14;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#0;n#div#0;n#div#3;n#div#0;n#div#14;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -128,7 +94,7 @@
       <file leaf-file-name="main.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/fb/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="39" column="54" selection-start="1243" selection-end="1243" vertical-scroll-proportion="0.0">
+            <state line="58" column="45" selection-start="1938" selection-end="1938" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -137,11 +103,26 @@
       <file leaf-file-name="live.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/fb/live.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="58" column="0" selection-start="3577" selection-end="3599" vertical-scroll-proportion="-20.814816">
+            <state line="50" column="70" selection-start="3008" selection-end="3008" vertical-scroll-proportion="-13.925926">
               <folding>
-                <marker date="1373493865000" expanded="true" signature="361:561" placeholder="..." />
-                <marker date="1373493865000" expanded="true" signature="374:403" placeholder="{...}" />
-                <marker date="1373493865000" expanded="true" signature="420:553" placeholder="{...}" />
+                <marker date="1373576551000" expanded="true" signature="361:561" placeholder="..." />
+                <marker date="1373576551000" expanded="true" signature="374:403" placeholder="{...}" />
+                <marker date="1373576551000" expanded="true" signature="420:553" placeholder="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="events.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fb/events.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="71" column="33" selection-start="6215" selection-end="6215" vertical-scroll-proportion="1.0">
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#2;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#table#0;n#div#0;n#div#2;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <marker date="1373654145000" expanded="true" signature="361:561" placeholder="..." />
+                <marker date="1373654145000" expanded="true" signature="374:403" placeholder="{...}" />
+                <marker date="1373654145000" expanded="true" signature="420:553" placeholder="{...}" />
               </folding>
             </state>
           </provider>
@@ -150,68 +131,8 @@
       <file leaf-file-name="golf.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/fb/golf.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="32" column="69" selection-start="1401" selection-end="1401" vertical-scroll-proportion="-5.962963">
-              <folding>
-                <element signature="n#style#0;n#div#0;n#div#2;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#td#0;n#tr#1;n#tbody#0;n#table#0;n#div#0;n#div#2;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#td#0;n#tr#2;n#tbody#0;n#table#0;n#div#0;n#div#2;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#td#0;n#tr#3;n#tbody#0;n#table#0;n#div#0;n#div#2;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#td#1;n#tr#3;n#tbody#0;n#table#0;n#div#0;n#div#2;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#td#2;n#tr#3;n#tbody#0;n#table#0;n#div#0;n#div#2;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#td#3;n#tr#3;n#tbody#0;n#table#0;n#div#0;n#div#2;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#td#4;n#tr#3;n#tbody#0;n#table#0;n#div#0;n#div#2;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#td#5;n#tr#3;n#tbody#0;n#table#0;n#div#0;n#div#2;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#td#6;n#tr#3;n#tbody#0;n#table#0;n#div#0;n#div#2;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#td#7;n#tr#3;n#tbody#0;n#table#0;n#div#0;n#div#2;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#td#0;n#tr#4;n#tbody#0;n#table#0;n#div#0;n#div#2;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#td#3;n#tr#4;n#tbody#0;n#table#0;n#div#0;n#div#2;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#td#4;n#tr#4;n#tbody#0;n#table#0;n#div#0;n#div#2;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#td#5;n#tr#4;n#tbody#0;n#table#0;n#div#0;n#div#2;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#td#6;n#tr#4;n#tbody#0;n#table#0;n#div#0;n#div#2;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#td#7;n#tr#4;n#tbody#0;n#table#0;n#div#0;n#div#2;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#td#0;n#tr#5;n#tbody#0;n#table#0;n#div#0;n#div#2;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#td#1;n#tr#5;n#tbody#0;n#table#0;n#div#0;n#div#2;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#td#2;n#tr#5;n#tbody#0;n#table#0;n#div#0;n#div#2;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#td#3;n#tr#5;n#tbody#0;n#table#0;n#div#0;n#div#2;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#td#4;n#tr#5;n#tbody#0;n#table#0;n#div#0;n#div#2;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#td#5;n#tr#5;n#tbody#0;n#table#0;n#div#0;n#div#2;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#td#6;n#tr#5;n#tbody#0;n#table#0;n#div#0;n#div#2;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#td#7;n#tr#5;n#tbody#0;n#table#0;n#div#0;n#div#2;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="dine.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/fb/dine.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="40" column="71" selection-start="2455" selection-end="2455" vertical-scroll-proportion="-6.185185">
-              <folding>
-                <element signature="n#style#0;n#p#0;n#div#0;n#div#1;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#p#0;n#div#0;n#div#1;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#1;n#div#0;n#div#1;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#2;n#div#0;n#div#1;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#3;n#div#0;n#div#1;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#4;n#div#0;n#div#1;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#5;n#div#0;n#div#1;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#6;n#div#0;n#div#1;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#7;n#div#0;n#div#1;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#8;n#div#0;n#div#1;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#9;n#div#0;n#div#1;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#10;n#div#0;n#div#1;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#11;n#div#0;n#div#1;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#12;n#div#0;n#div#1;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#13;n#div#0;n#div#1;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#14;n#div#0;n#div#1;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#15;n#div#0;n#div#1;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#16;n#div#0;n#div#1;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#17;n#div#0;n#div#1;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#18;n#div#0;n#div#1;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#19;n#div#0;n#div#1;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#20;n#div#0;n#div#1;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#21;n#div#0;n#div#1;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#22;n#div#0;n#div#1;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+            <state line="60" column="16" selection-start="3217" selection-end="3284" vertical-scroll-proportion="-28.296297">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -237,16 +158,17 @@
         <option value="$PROJECT_DIR$/fb/live.php" />
         <option value="$PROJECT_DIR$/fb/.htaccess" />
         <option value="$PROJECT_DIR$/fb/header.html" />
-        <option value="$PROJECT_DIR$/fb/includes/partials.html" />
-        <option value="$PROJECT_DIR$/fb/events.html" />
-        <option value="$PROJECT_DIR$/fb/stay.html" />
-        <option value="$PROJECT_DIR$/fb/js/main.js" />
         <option value="$PROJECT_DIR$/fb/js/css/first/jquery-ui-1.10.3.custom.css" />
-        <option value="$PROJECT_DIR$/fb/golf.html" />
-        <option value="$PROJECT_DIR$/fb/live.html" />
-        <option value="$PROJECT_DIR$/fb/css/main.css" />
-        <option value="$PROJECT_DIR$/fb/includes/load.html" />
         <option value="$PROJECT_DIR$/fb/dine.html" />
+        <option value="$PROJECT_DIR$/fb/live.html" />
+        <option value="$PROJECT_DIR$/fb/golf.html" />
+        <option value="$PROJECT_DIR$/fb/js/vendor/jquery-1.9.1.min.js" />
+        <option value="$PROJECT_DIR$/fb/includes/partials.html" />
+        <option value="$PROJECT_DIR$/fb/js/main.js" />
+        <option value="$PROJECT_DIR$/fb/includes/load.html" />
+        <option value="$PROJECT_DIR$/fb/events.html" />
+        <option value="$PROJECT_DIR$/fb/css/main.css" />
+        <option value="$PROJECT_DIR$/fb/stay.html" />
       </list>
     </option>
   </component>
@@ -297,7 +219,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -424,6 +345,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -492,7 +414,7 @@
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.18945312" sideWeight="0.35667107" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.15820312" sideWeight="0.35667107" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
@@ -593,21 +515,6 @@
     </PATH>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/fb/favicon.ico">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fb/crossdomain.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fb/doc/css.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="80" column="85" selection-start="3013" selection-end="3013" vertical-scroll-proportion="0.34689507" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/fb/doc/crossdomain.md">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
@@ -623,16 +530,6 @@
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fb/stay.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="87" selection-start="614" selection-end="614" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fb/events.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="81" selection-start="1066" selection-end="1066" vertical-scroll-proportion="0.2618705" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/fb/js/css/first/jquery-ui-1.10.3.custom.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="388" column="47" selection-start="8984" selection-end="8984" vertical-scroll-proportion="0.0">
@@ -640,159 +537,100 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fb/golf.html">
+    <entry file="file://$PROJECT_DIR$/fb/robots.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="69" selection-start="1401" selection-end="1401" vertical-scroll-proportion="-5.962963">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fb/js/vendor/jquery-1.9.1.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="24" selection-start="92595" selection-end="92595" vertical-scroll-proportion="0.069141194">
           <folding>
-            <element signature="n#style#0;n#div#0;n#div#2;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#td#0;n#tr#1;n#tbody#0;n#table#0;n#div#0;n#div#2;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#td#0;n#tr#2;n#tbody#0;n#table#0;n#div#0;n#div#2;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#td#0;n#tr#3;n#tbody#0;n#table#0;n#div#0;n#div#2;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#td#1;n#tr#3;n#tbody#0;n#table#0;n#div#0;n#div#2;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#td#2;n#tr#3;n#tbody#0;n#table#0;n#div#0;n#div#2;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#td#3;n#tr#3;n#tbody#0;n#table#0;n#div#0;n#div#2;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#td#4;n#tr#3;n#tbody#0;n#table#0;n#div#0;n#div#2;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#td#5;n#tr#3;n#tbody#0;n#table#0;n#div#0;n#div#2;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#td#6;n#tr#3;n#tbody#0;n#table#0;n#div#0;n#div#2;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#td#7;n#tr#3;n#tbody#0;n#table#0;n#div#0;n#div#2;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#td#0;n#tr#4;n#tbody#0;n#table#0;n#div#0;n#div#2;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#td#3;n#tr#4;n#tbody#0;n#table#0;n#div#0;n#div#2;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#td#4;n#tr#4;n#tbody#0;n#table#0;n#div#0;n#div#2;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#td#5;n#tr#4;n#tbody#0;n#table#0;n#div#0;n#div#2;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#td#6;n#tr#4;n#tbody#0;n#table#0;n#div#0;n#div#2;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#td#7;n#tr#4;n#tbody#0;n#table#0;n#div#0;n#div#2;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#td#0;n#tr#5;n#tbody#0;n#table#0;n#div#0;n#div#2;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#td#1;n#tr#5;n#tbody#0;n#table#0;n#div#0;n#div#2;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#td#2;n#tr#5;n#tbody#0;n#table#0;n#div#0;n#div#2;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#td#3;n#tr#5;n#tbody#0;n#table#0;n#div#0;n#div#2;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#td#4;n#tr#5;n#tbody#0;n#table#0;n#div#0;n#div#2;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#td#5;n#tr#5;n#tbody#0;n#table#0;n#div#0;n#div#2;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#td#6;n#tr#5;n#tbody#0;n#table#0;n#div#0;n#div#2;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#td#7;n#tr#5;n#tbody#0;n#table#0;n#div#0;n#div#2;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#!!doc" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fb/live.html">
+    <entry file="file://$PROJECT_DIR$/fb/js/vendor/jquery.orbit-1.2.3.min.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="58" column="0" selection-start="3577" selection-end="3599" vertical-scroll-proportion="-20.814816">
+        <state line="16" column="25" selection-start="4400" selection-end="4400" vertical-scroll-proportion="0.21714285">
           <folding>
-            <marker date="1373493865000" expanded="true" signature="361:561" placeholder="..." />
-            <marker date="1373493865000" expanded="true" signature="374:403" placeholder="{...}" />
-            <marker date="1373493865000" expanded="true" signature="420:553" placeholder="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fb/js/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="54" selection-start="1243" selection-end="1243" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fb/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="501" column="48" selection-start="9150" selection-end="9150" vertical-scroll-proportion="-21.37931">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fb/dine.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="40" column="71" selection-start="2455" selection-end="2455" vertical-scroll-proportion="-6.185185">
-          <folding>
-            <element signature="n#style#0;n#p#0;n#div#0;n#div#1;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#p#0;n#div#0;n#div#1;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#1;n#div#0;n#div#1;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#2;n#div#0;n#div#1;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#3;n#div#0;n#div#1;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#4;n#div#0;n#div#1;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#5;n#div#0;n#div#1;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#6;n#div#0;n#div#1;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#7;n#div#0;n#div#1;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#8;n#div#0;n#div#1;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#9;n#div#0;n#div#1;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#10;n#div#0;n#div#1;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#11;n#div#0;n#div#1;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#12;n#div#0;n#div#1;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#13;n#div#0;n#div#1;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#14;n#div#0;n#div#1;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#15;n#div#0;n#div#1;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#16;n#div#0;n#div#1;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#17;n#div#0;n#div#1;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#18;n#div#0;n#div#1;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#19;n#div#0;n#div#1;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#20;n#div#0;n#div#1;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#21;n#div#0;n#div#1;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#22;n#div#0;n#div#1;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fb/includes/load.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="76" column="58" selection-start="5297" selection-end="5297" vertical-scroll-proportion="11.962963">
-          <folding>
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#3;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#7;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#8;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#9;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#10;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#11;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#div#11;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#p#0;n#div#11;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#1;n#div#11;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#2;n#div#11;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#3;n#div#11;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#4;n#div#11;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#5;n#div#11;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#6;n#div#11;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#7;n#div#11;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#8;n#div#11;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#9;n#div#11;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#10;n#div#11;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#11;n#div#11;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#12;n#div#11;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#13;n#div#11;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#14;n#div#11;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#15;n#div#11;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#16;n#div#11;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#17;n#div#11;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#18;n#div#11;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#19;n#div#11;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#20;n#div#11;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#21;n#div#11;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#22;n#div#11;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#12;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#div#12;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#p#0;n#div#12;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#13;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#div#13;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#p#0;n#div#13;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#strong#0;n#p#0;n#div#0;n#div#13;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#strong#0;n#p#7;n#div#0;n#div#13;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#strong#0;n#p#16;n#div#0;n#div#13;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#14;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#div#14;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#p#0;n#div#14;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#14;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#div#1;n#div#0;n#div#0;n#div#14;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#div#1;n#div#0;n#div#14;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#div#0;n#div#1;n#div#0;n#div#14;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#div#2;n#div#0;n#div#14;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#div#0;n#div#2;n#div#0;n#div#14;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#div#0;n#div#3;n#div#0;n#div#14;n#!!top" expanded="true" />
+            <element signature="n#!!doc" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/fb/includes/partials.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="52" selection-start="796" selection-end="796" vertical-scroll-proportion="0.20328103">
+        <state line="15" column="54" selection-start="800" selection-end="800" vertical-scroll-proportion="0.20328103">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fb/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="58" column="45" selection-start="1938" selection-end="1938" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fb/includes/load.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="121" column="60" selection-start="7033" selection-end="7033" vertical-scroll-proportion="5.9259257">
+          <folding>
+            <element signature="n#style#0;n#div#12;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fb/golf.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="60" column="16" selection-start="3217" selection-end="3284" vertical-scroll-proportion="-28.296297">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fb/events.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="71" column="33" selection-start="6215" selection-end="6215" vertical-scroll-proportion="1.0">
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#2;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#table#0;n#div#0;n#div#2;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1373654145000" expanded="true" signature="361:561" placeholder="..." />
+            <marker date="1373654145000" expanded="true" signature="374:403" placeholder="{...}" />
+            <marker date="1373654145000" expanded="true" signature="420:553" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fb/dine.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="37" column="28" selection-start="1669" selection-end="1679" vertical-scroll-proportion="-14.37037">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fb/live.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="50" column="70" selection-start="3008" selection-end="3008" vertical-scroll-proportion="-13.925926">
+          <folding>
+            <marker date="1373576551000" expanded="true" signature="361:561" placeholder="..." />
+            <marker date="1373576551000" expanded="true" signature="374:403" placeholder="{...}" />
+            <marker date="1373576551000" expanded="true" signature="420:553" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fb/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="347" column="48" selection-start="6666" selection-end="6666" vertical-scroll-proportion="-26.206896">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fb/stay.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="59" column="73" selection-start="2324" selection-end="2324" vertical-scroll-proportion="0.8146802">
           <folding />
         </state>
       </provider>

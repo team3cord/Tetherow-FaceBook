@@ -163,12 +163,14 @@ nav span {
     top: 35px;
 }
 
-nav a:first-child{
-    width: 108px;
-    height: 99px;
-    color: #691500;
-    background:#FFF url('../img/side-logo.png') no-repeat 8px 8px;
+div #nv-t  {
+width: 108px;
+height: 99px;
+color: #691500;
+background:#FFF url('../img/side-logo.png') no-repeat 8px 8px;
 }
+
+
 
 #nv-l.flat {width: 108px; background: url('../img/live.png') no-repeat 0px 0px;}
 #nv-g.flat {width: 108px; background: url('../img/golf.png') no-repeat 0px 0px}
@@ -262,6 +264,8 @@ nav a:first-child{
     text-align: center;
     
 }
+
+
 .white {
     background: #FFF;
     height: 100%;
@@ -293,6 +297,13 @@ nav a:first-child{
     font-size: 11px;
 }
 
+.p-stay {
+    padding: 90px 37px 0px 37px;
+    color: #000000;
+    font-weight: bold;
+    font-size: 11px;
+}
+
 #tabs-1 h3 {
     padding-top: 60px;
     text-align: center;
@@ -311,8 +322,13 @@ nav a:first-child{
     margin:-13px 0px 0px -17px;
 }
 
+#vid-spacing {
+    margin-top: -15px;
+    margin-left: -20px;
+}
+
 .stay-content {
-    height: 309px;
+    height: 322px;
     width: 474px;
     position: absolute;
     top: 150px;
@@ -326,6 +342,25 @@ nav a:first-child{
     padding: 10px 0px 10px 0px;
 }
 
+.stay-tab {
+    height: 35px;
+    width: 100%;
+    margin-top: -17px;
+    background: #D0D0D0;
+}
+
+h4.stay-header {
+    text-align: center;
+    padding-top: 10px;
+    font-size: .8em;
+}
+
+.stay-banner {
+    position: absolute;
+    top: 37px;
+    left: 2px;
+}
+
 #inner-2 {
     margin-top: -1px;
     margin-left: -3px;
@@ -335,6 +370,21 @@ nav a:first-child{
     margin-top: -15px;
     margin-left: -20px;
 }
+
+.chef-copy {
+    float: right;
+    width: 50%;
+    font-size: 12px;
+    font-weight: bold;
+    margin-top: -7px;
+}
+
+.event-p {
+    font-size: 13px;
+    margin: 5px 0 0 10px;
+}
+
+
 
 /*----------------NESTED TAB MENU---------------------*/
 .bottom-tab {
@@ -346,9 +396,9 @@ nav a:first-child{
 
 }
 .xtwo {
-
     left: 4px;
     bottom: -8px;
+    border-bottom: 1px solid #FFF;
 }
 
 .xtwo li {
@@ -356,10 +406,10 @@ nav a:first-child{
     display: inline-block;
     float: left;
     font-size:12px;
-    width:228px;
+    width:49.5%;
     height: 29px;
     background: #312B2A;
-    border: 2px solid #FFF;
+    border: 1px solid #FFF;
 }
 
 .xthree {
@@ -423,6 +473,15 @@ a.btm {
     margin: 0 auto;
     height: 25px;
     width:100px;
+    padding-top: 5px;
+}
+
+a.btm2 {
+    position: relative;
+    display: block;
+    margin: 0 auto;
+    height: 25px;
+    width:110px;
     padding-top: 5px;
 }
 
@@ -704,6 +763,7 @@ a.btm {
 
 /* PUT IN YOUR SLIDER ID AND SIZE TO MAKE LOAD BEAUTIFULLY
    ================================================== */
+
 #property {
     width: 470px;
     height: 250px;
@@ -737,18 +797,16 @@ a.btm {
 
 .content-homes { background: url('../img/kitchen.jpg'); }
 
-/*.content h1 {*/
-    /*font-size: 40px;*/
-    /*text-transform: uppercase;*/
-    /*font-weight: bold;*/
-    /*text-align: center;*/
-    /*margin-top: 180px;*/
-    /*color: #222;*/
-    /*line-height: 50px;  }*/
-/*.content h3 {*/
-    /*text-align: center;*/
-    /*font-size: 22px;*/
-    /*color: #222; }*/
+#wedding {
+    width: 470px;
+    height: 250px;
+    background: #000 url('../img/loading.gif') no-repeat center center;
+    overflow: hidden; }
+#wedding>img,
+#wedding>div,
+#wedding>a { display: none; }
+
+.content-wedd { background: url('../img/wedding-image-1.jpg');  }
 
 
 
